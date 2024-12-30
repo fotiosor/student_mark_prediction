@@ -1,9 +1,5 @@
 # student_mark_prediction
 
-Voici une version enrichie avec plus d’émojis pour un effet plus visuel et engageant :  
-
----
-
 # **Academic Performance Analyzer** 📚✨💡  
 
 ## **Introduction**  
