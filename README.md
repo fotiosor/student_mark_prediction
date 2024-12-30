@@ -1,10 +1,5 @@
 # student_mark_prediction
 
-
-Voici une reformulation professionnelle et concise :  
-
----
-
 # **Academic Performance Analyzer** 📚✨  
 
 ## **Introduction**  
